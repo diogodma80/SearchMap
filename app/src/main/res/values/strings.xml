@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchMap</string>
+    <string name="showMap">Show Map</string>
+    <string name="input_address">Input the address</string>
+</resources>
